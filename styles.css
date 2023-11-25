@@ -28,14 +28,19 @@ section{
 }
 
 .card-foto{
-    height: 250px;
-    padding: 20px 20px 20px 20px;
+    height: 265px;
+    padding: 20px 20px 20px 26px;
+    
 }
 
 .contenedor-dos{
-    margin-left: 20px;
+    margin-left: 58px;
     margin-right: 20px;
 
+}
+
+.contenedor-dos-1{
+    margin-left: 7px;
 }
 
 .contenedor-dos-detalle{
